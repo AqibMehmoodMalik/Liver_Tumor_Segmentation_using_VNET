@@ -109,9 +109,9 @@ pip install -r requirements.txt
 python src/train.py
 </pre>
 
-<h3>2. Predict tumor region</h3>
+<h3>2. Run the app </h3>
 <pre>
-python src/predict.py --image path_to_image
+python src/app.py
 </pre>
 
 <hr>
