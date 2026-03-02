@@ -1,5 +1,5 @@
-#🩺 Liver_Tumor_Segmentation_using_VNET
-Developed a V-Net-based deep learning model to segment liver tumors  from CT scans using the LiTS dataset. Pre-processed 3D medical images into 2D slices, applied data augmentation, and  evaluated performance using the Dice Coefficient.
+<h1 align="center">🩺 Liver Tumor Segmentation</h1>
+<p>Developed a V-Net-based deep learning model to segment liver tumors  from CT scans using the LiTS dataset. Pre-processed 3D medical images into 2D slices, applied data augmentation, and  evaluated performance using the Dice Coefficient.</p>
 <h2 >📌 Project Overview</h2>
 <p>
 Liver cancer is one of the leading causes of cancer-related deaths worldwide. Early detection and precise localization of liver tumors are critical for diagnosis and treatment planning. 
