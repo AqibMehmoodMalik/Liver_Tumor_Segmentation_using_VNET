@@ -9,7 +9,14 @@ This project focuses on building an automated system for <b>liver tumor segmenta
 <p>
 The system takes CT scan images as input and produces segmented masks that highlight tumor regions. This helps radiologists and doctors in faster and more accurate analysis.
 </p>
+<h2>🖥️ Application User Interface</h2>
+<p>
+Below is the graphical user interface of the Liver Tumor Segmentation application.
+</p>
 
+<p align="center">
+  <img src="ui.png" alt="App UI" width="700">
+</p>
 <hr>
 <h2>🎯 Objectives</h2>
 <ul>
